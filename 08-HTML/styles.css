@@ -1,0 +1,19 @@
+.divclass h1{
+    color: deeppink;
+}
+
+img{
+    width: 400px;
+
+}
+
+#thirdDiv{
+    width: 500px;
+    height: 600px;
+    background:orchid ;
+}
+
+spanId{
+    font-size: 18px;
+    margin: 50px;
+}
